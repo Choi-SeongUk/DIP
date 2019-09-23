@@ -20,5 +20,5 @@ Week4 : Motion Estimation(Motion Vector) & Video Coding
 You can see the more detailed examples and download PPT files in each foler.
 ![demo image](DIP_week1/example_image/example5.jpg)
 ![week2](DIP_week2/example_image/example1.jpg)
-![demo image](DIP_week3/example_image/example1.gif)
-![demo image](DIP_week3/example_image/example2.gif)
+![week3_1](DIP_week3/example_image/example1.gif)
+![week3_2](DIP_week3/example_image/example2.gif)
