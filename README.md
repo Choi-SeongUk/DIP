@@ -18,6 +18,9 @@ Week4 : Motion Estimation(Motion Vector) & Video Coding
 # Examples
 각 주차에 해당하는 폴더에서 더 자세한 예시를 볼 수 있고 ppt 발표자료를 받을 수 있습니다.  
 You can see the more detailed examples and download PPT files in each foler.
+
+
+### [HSI Model]
 ![demo image](DIP_week1/example_image/example5.jpg)
 ![week2](DIP_week2/example_image/example1.jpg)
 ![week3_1](DIP_week3/example_image/example1.gif)
