@@ -30,6 +30,9 @@ The images below are from my presentation.
 ![week2](DIP_week2/example_image/example1.jpg)
 
 
-### Recursion과 Stack
+### Recursion을 이용한 Connected Component Labeling
 ![week3_1](DIP_week3/example_image/example1.gif)
+
+
+### Stack을 이용한 Connected Component Labeling
 ![week3_2](DIP_week3/example_image/example2.gif)
