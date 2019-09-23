@@ -22,7 +22,7 @@ You can see the more detailed examples and download PPT files in each foler.
 아래 이미지들은 발표자료에서 일부를 가져와 보여준 것입니다.  
 The images below are from my presentation.
 
-### HSI Model로 영상 다루기
+### HSI Model로 Saturation 값 변경하기
 ![demo image](DIP_week1/example_image/example5.jpg)
 
 
